@@ -24,6 +24,11 @@
 
 </p>
 
+ </b></b>
+ </b></b>
+
+<p align="center">
+  Computer Engineering @ UT Dallas | Class of 2028 | Hardware & Software Devolpment
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danishejaz1/danishejaz1/output/tetris-dark.svg" />
