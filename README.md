@@ -1,4 +1,4 @@
-<h2 align="center">
+<h2 align="left">
   <span style="color:#ff7c72;">const</span>
   <span style="color:#ffffff;"> danishEjaz </span>
   <span style="color:#ff7c72;">= {</span>
@@ -8,31 +8,29 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=a5d6ff&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;Building+Hardware+%2B+Software+Systems;Embedded+Systems+%7C+Web+Dev;Always+learning+and+building..." />
 </p>
 
-<h2 align="center">
+<h2 align="left">
   <span style="color:#ff7c72;">}</span>
 </h2>
 
----
-## 🌐 connect
-
-<p align="left">
+<p align="center">
 
   <a href="https://www.linkedin.com/in/danishejaz1/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" />
+    <img src="https://img.shields.io/badge/LinkedIn-FF3B3B?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="https://devpost.com/ddanishejaz1" target="_blank">
-    <img src="https://cdn.simpleicons.org/devpost/0A66FF"
-         width="45"
-         style="background-color:white; padding:6px; border-radius:6px;" />
+    <img src="https://img.shields.io/badge/Devpost-FF3B3B?style=for-the-badge&logo=devpost&logoColor=white"/>
   </a>
 
 </p>
 
 
+
 ---
 
-# profile 👨‍🏫
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=FF3B3B&width=600&lines=PROFILE+%F0%9F%92%BB&center=false" />
+</p>
 
 I’m a computer engineering student focused on building systems that connect hardware and software. I enjoy working on embedded projects, web applications, and learning how things work under the hood.
 
@@ -58,7 +56,10 @@ export default danish;
 
 ```
 ---
-# Stats 📊
+//stats header
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=FF3B3B&width=600&lines=STATS+%F0%9F%93%8A&center=false" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danishejaz1&show_icons=true&theme=dark&title_color=FF3B3B&icon_color=FF3B3B&bg_color=0d1117" width="48%" />
