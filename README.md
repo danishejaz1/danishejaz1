@@ -12,19 +12,23 @@
   <span style="color:#ff7c72;">}</span>
 </h2>
 
-<p align="center">
+---
+## 🌐 connect
+
+<p align="left">
 
   <a href="https://www.linkedin.com/in/danishejaz1/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" />
   </a>
 
-  &nbsp;&nbsp;
-
   <a href="https://devpost.com/ddanishejaz1" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/devpost.svg" width="45" height="45"/>
+    <img src="https://cdn.simpleicons.org/devpost/0A66FF"
+         width="45"
+         style="background-color:white; padding:6px; border-radius:6px;" />
   </a>
 
 </p>
+
 
 ---
 
@@ -54,5 +58,14 @@ export default danish;
 
 ```
 ---
-Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=danishejaz1&show_icons=true&theme=dark&title_color=FF3B3B&icon_color=FF3B3B&bg_color=0d1117" width="48%" /> <img src="https://streak-stats.demolab.com?user=danishejaz1&theme=dark&background=0d1117&ring=FF3B3B&fire=FF3B3B" width="48%" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=danishejaz1&bg_color=0d1117&color=ffffff&line=FF3B3B&point=4DA6FF&area=true&hide_border=true" width="96%" /> </p>
+# Stats 📊
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danishejaz1&show_icons=true&theme=dark&title_color=FF3B3B&icon_color=FF3B3B&bg_color=0d1117" width="48%" />
+  
+  <img src="https://streak-stats.demolab.com?user=danishejaz1&theme=dark&background=0d1117&ring=FF3B3B&fire=FF3B3B" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danishejaz1&bg_color=0d1117&color=ffffff&line=FF3B3B&point=4DA6FF&area=true&hide_border=true" width="96%" />
+</p>
