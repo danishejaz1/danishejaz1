@@ -1,16 +1,58 @@
-## Hi there 👋
+<h2 align="center">
+  <span style="color:#ff7c72;">const</span>
+  <span style="color:#ffffff;"> danishEjaz </span>
+  <span style="color:#ff7c72;">= {</span>
+</h2>
 
-<!--
-**danishejaz1/danishejaz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=a5d6ff&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;Building+Hardware+%2B+Software+Systems;Embedded+Systems+%7C+Web+Dev;Always+learning+and+building..." />
+</p>
 
-Here are some ideas to get you started:
+<h2 align="center">
+  <span style="color:#ff7c72;">}</span>
+</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/danishejaz1/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45"/>
+  </a>
+
+  &nbsp;&nbsp;
+
+  <a href="https://devpost.com/ddanishejaz1" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/devpost.svg" width="45" height="45"/>
+  </a>
+
+</p>
+
+---
+
+# profile 👨‍🏫
+
+I’m a computer engineering student focused on building systems that connect hardware and software. I enjoy working on embedded projects, web applications, and learning how things work under the hood.
+
+<br><br>
+
+```js
+// profile.js
+
+const danish = {
+  role: "computer engineering student",
+  interests: [
+    "embedded systems",
+    "web development",
+    "low-level programming",
+    "Hardware ML"
+  ],
+  currentFocus: "building projects and improving fundamentals",
+  mindset: "learn → build → break → repeat",
+  status: "in progress"
+};
+
+export default danish;
+
+```
+---
+Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=danishejaz1&show_icons=true&theme=dark&title_color=FF3B3B&icon_color=FF3B3B&bg_color=0d1117" width="48%" /> <img src="https://streak-stats.demolab.com?user=danishejaz1&theme=dark&background=0d1117&ring=FF3B3B&fire=FF3B3B" width="48%" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=danishejaz1&bg_color=0d1117&color=ffffff&line=FF3B3B&point=4DA6FF&area=true&hide_border=true" width="96%" /> </p>
