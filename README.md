@@ -1,6 +1,6 @@
 <h2 align="left">
   <span style="color:#ff7c72;">const</span>
-  <span style="color:#ffffff;"> danishEjaz </span>
+  <span style="color:#ffffff;"> introduction </span>
   <span style="color:#ff7c72;">= {</span>
 </h2>
 
@@ -29,7 +29,7 @@
 ---
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=FF3B3B&width=600&lines=PROFILE+%F0%9F%92%BB&center=false" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=79c0ff&width=600&lines=PROFILE+%F0%9F%92%BB&center=false" />
 </p>
 
 I’m a computer engineering student focused on building systems that connect hardware and software. I enjoy working on embedded projects, web applications, and learning how things work under the hood.
@@ -39,7 +39,7 @@ I’m a computer engineering student focused on building systems that connect ha
 ```js
 // profile.js
 
-const danish = {
+const danishEjaz = {
   role: "computer engineering student",
   interests: [
     "embedded systems",
@@ -58,7 +58,7 @@ export default danish;
 ---
 //stats header
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=FF3B3B&width=600&lines=STATS+%F0%9F%93%8A&center=false" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=79c0ff&width=600&lines=STATS+%F0%9F%93%8A&center=false" />
 </p>
 
 <p align="center">
