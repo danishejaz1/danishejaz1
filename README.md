@@ -27,7 +27,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danishejaz1/danishejaz1/output/tetris-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danishejaz1/danishejaz1/output/tetris.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danishejaz1/danishejaz1/output/tetris.svg" />
     <img alt="tetris-grid" src="https://raw.githubusercontent.com/danishejaz1/danishejaz1/output/tetris.svg" />
   </picture>
 </p>
