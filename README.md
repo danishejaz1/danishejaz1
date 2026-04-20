@@ -64,42 +64,64 @@ export default danish;
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=79c0ff&width=700&lines=TECH+STACK+%F0%9F%92%BB;TOOLS+%26+TECHNOLOGIES;WHAT+I+BUILD+WITH" />
 </p>
 
+<!-- LANGUAGES -->
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts" />
 </p>
 
+<!-- HDL -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Verilog-FF3B3B?style=for-the-badge" />
+</p>
+
+<!-- FRONTEND -->
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,html,tailwind" />
 </p>
 
+<!-- BACKEND -->
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,flask" />
 </p>
 
+<!-- AI / ML -->
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch" />
-</p>
-
-<p align="left">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
+<!-- DATABASES -->
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-</p>
-
-<p align="left">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
+<!-- DEVOPS / TOOLS -->
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,firebase,git,linux" />
 </p>
 
+<!-- RF / SIGNAL PROCESSING -->
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,blender,ps,ai" /> 
+  <img src="https://img.shields.io/badge/GNU%20Radio-FF3B3B?style=for-the-badge&logo=gnuradio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SDR%23-FF3B3B?style=for-the-badge"/>
 </p>
 
+<!-- CAD / ENGINEERING -->
+<p align="left">
+  <img src="https://img.shields.io/badge/SolidWorks-FF3B3B?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Autodesk%20Inventor-FF3B3B?style=for-the-badge&logo=autodesk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Multisim-FF3B3B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tinkercad-FF3B3B?style=for-the-badge&logo=autodesk&logoColor=white"/>
+</p>
+
+<!-- DESIGN -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,blender,ps,ai" />
+</p>
+
+<!-- EMBEDDED -->
 <p align="left">
   <img src="https://skillicons.dev/icons?i=arduino,matlab" />
 </p>
