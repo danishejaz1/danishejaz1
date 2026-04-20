@@ -61,10 +61,52 @@ export default danish;
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=79c0ff&width=700&lines=TECH+STACK+%F0%9F%92%BB;TOOLS+%26+TECHNOLOGIES;WHAT+I+BUILD+WITH" />
 </p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,tailwind" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,flask" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,firebase,git,linux" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,blender,ps,ai" /> 
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,matlab" />
+</p>
+
 ---
+
 //stats header
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=79c0ff&width=600&lines=STATS+%F0%9F%93%8A&center=false" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=79c0ff&width=700&lines=STATS+%F0%9F%93%8A;MY+STATS" />
 </p>
 
 <p align="center">
