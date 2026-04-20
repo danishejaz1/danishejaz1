@@ -151,7 +151,7 @@ export default danish;
 
 ---
 <p align="center">
-  <img src="https://img.shields.io/badge/UTD-Computer%20Engineering-0d1117?style=for-the-badge&labelColor=6e7681&color=ffffff" />
-  <img src="https://img.shields.io/badge/Class-2028-0d1117?style=for-the-badge&labelColor=6e7681&color=ffffff" />
-  <img src="https://img.shields.io/badge/Focus-Embedded%20%2B%20Software%20Systems-0d1117?style=for-the-badge&labelColor=6e7681&color=ffffff" />
+  🏫 UT Dallas &nbsp;&nbsp; | &nbsp;&nbsp;
+  🎓 Computer Engineering (2028) &nbsp;&nbsp; | &nbsp;&nbsp;
+  ⚙️ Embedded + Software Systems
 </p>
