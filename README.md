@@ -140,9 +140,7 @@ export default danish;
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danishejaz1&theme=github_dark" 
-       width="96%"
-       style="border-radius: 12px; border: 1px solid #FF3B3B;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danishejaz1&theme=github_dark" width="96%" />
 </p>
 
 <p align="center">
