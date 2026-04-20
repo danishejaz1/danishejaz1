@@ -58,7 +58,9 @@ export default danish;
 
 ```
 ---
-## Stack
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=79c0ff&width=700&lines=TECH+STACK+%F0%9F%92%BB;TOOLS+%26+TECHNOLOGIES;WHAT+I+BUILD+WITH" />
+</p>
 ---
 //stats header
 <p align="left">
