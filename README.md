@@ -31,7 +31,7 @@
 ---
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=79c0ff&width=600&lines=PROFILE+%F0%9F%92%BB&center=false" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=79c0ff&width=700&lines=PROFILE+%E2%9A%99%EF%B8%8F;A+LITTLE+BIT+ABOUT+ME" />
 </p>
 
 I’m a computer engineering student focused on building systems that connect hardware and software. I enjoy working on embedded projects, web applications, and learning how things work under the hood.
