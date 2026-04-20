@@ -1,0 +1,66 @@
+<p align="center">
+<svg width="800" height="260" viewBox="0 0 800 260" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- background -->
+  <rect width="100%" height="100%" fill="#000000"/>
+
+  <!-- grid -->
+  <g stroke="#111">
+    <g>
+      <!-- vertical -->
+      <line x1="0" y1="0" x2="0" y2="260"/>
+      <line x1="40" y1="0" x2="40" y2="260"/>
+      <line x1="80" y1="0" x2="80" y2="260"/>
+      <line x1="120" y1="0" x2="120" y2="260"/>
+      <line x1="160" y1="0" x2="160" y2="260"/>
+      <line x1="200" y1="0" x2="200" y2="260"/>
+      <line x1="240" y1="0" x2="240" y2="260"/>
+      <line x1="280" y1="0" x2="280" y2="260"/>
+      <line x1="320" y1="0" x2="320" y2="260"/>
+      <line x1="360" y1="0" x2="360" y2="260"/>
+      <line x1="400" y1="0" x2="400" y2="260"/>
+      <line x1="440" y1="0" x2="440" y2="260"/>
+      <line x1="480" y1="0" x2="480" y2="260"/>
+      <line x1="520" y1="0" x2="520" y2="260"/>
+      <line x1="560" y1="0" x2="560" y2="260"/>
+      <line x1="600" y1="0" x2="600" y2="260"/>
+      <line x1="640" y1="0" x2="640" y2="260"/>
+      <line x1="680" y1="0" x2="680" y2="260"/>
+      <line x1="720" y1="0" x2="720" y2="260"/>
+      <line x1="760" y1="0" x2="760" y2="260"/>
+    </g>
+  </g>
+
+  <!-- 🔴 FALLING RED PIECE -->
+  <rect x="120" y="0" width="40" height="40" fill="#FF3B3B">
+    <animate attributeName="y" values="0;200;0" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="160" y="0" width="40" height="40" fill="#FF3B3B">
+    <animate attributeName="y" values="0;200;0" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="160" y="40" width="40" height="40" fill="#FF3B3B">
+    <animate attributeName="y" values="40;240;40" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- 🔵 FALLING BLUE LINE -->
+  <rect x="400" y="0" width="40" height="40" fill="#4DA6FF">
+    <animate attributeName="y" values="0;200;0" dur="5s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="440" y="0" width="40" height="40" fill="#4DA6FF">
+    <animate attributeName="y" values="0;200;0" dur="5s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="480" y="0" width="40" height="40" fill="#4DA6FF">
+    <animate attributeName="y" values="0;200;0" dur="5s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="520" y="0" width="40" height="40" fill="#4DA6FF">
+    <animate attributeName="y" values="0;200;0" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- 🟦 STATIC STACK (BOTTOM) -->
+  <rect x="240" y="200" width="40" height="40" fill="#4DA6FF"/>
+  <rect x="280" y="200" width="40" height="40" fill="#4DA6FF"/>
+  <rect x="320" y="200" width="40" height="40" fill="#FF3B3B"/>
+  <rect x="360" y="200" width="40" height="40" fill="#FF3B3B"/>
+
+</svg>
+</p>
