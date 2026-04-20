@@ -16,10 +16,8 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/tetris.svg
-            dist/tetris-dark.svg?palette=github-dark
-            dist/tetris.svg?color_snake=FF3B3B&color_dots=#4DA6FF,#4DA6FF,#4DA6FF,#4DA6FF,#4DA6FF
+           outputs: |
+            dist/tetris-dark.svg?palette=github-dark&color_snake=FF3B3B
 
       - name: Push SVG
         uses: crazy-max/ghaction-github-pages@v3
