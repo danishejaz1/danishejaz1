@@ -148,3 +148,10 @@ export default danish;
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=danishejaz1&bg_color=0d1117&color=ffffff&line=FF3B3B&point=4DA6FF&area=true&hide_border=true" width="96%" />
 </p>
+
+---
+<p align="center">
+  <img src="https://img.shields.io/badge/UTD-Computer%20Engineering-0d1117?style=for-the-badge&labelColor=6e7681&color=ffffff" />
+  <img src="https://img.shields.io/badge/Class-2028-0d1117?style=for-the-badge&labelColor=6e7681&color=ffffff" />
+  <img src="https://img.shields.io/badge/Focus-Embedded%20%2B%20Software%20Systems-0d1117?style=for-the-badge&labelColor=6e7681&color=ffffff" />
+</p>
