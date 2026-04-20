@@ -19,6 +19,7 @@ jobs:
           outputs: |
             dist/tetris.svg
             dist/tetris-dark.svg?palette=github-dark
+            dist/tetris.svg?color_snake=FF3B3B&color_dots=#4DA6FF,#4DA6FF,#4DA6FF,#4DA6FF,#4DA6FF
 
       - name: Push SVG
         uses: crazy-max/ghaction-github-pages@v3
