@@ -34,7 +34,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=79c0ff&width=700&lines=PROFILE+%E2%9A%99%EF%B8%8F;A+LITTLE+BIT+ABOUT+ME" />
 </p>
 
-I’m a computer engineering student focused on building systems that connect hardware and software. I enjoy working on embedded projects, web applications, and learning how things work under the hood.
+<p align="left">
+  &nbsp;&nbsp;&nbsp;&nbsp;Hey! My name is Danish Ejaz, and I am a Computer Engineering student at UT Dallas (Class of 2028). I am dedicated to creating innovation at the forefront of hardware and software development. I am interested in embedded systems, web development, and hardware machine learning, aiming to create meaningful impact in these areas. I am an individual who is always willing to learn and apply knowledge in the real world.
+</p>
 
 <br><br>
 
@@ -47,7 +49,7 @@ const danishEjaz = {
     "embedded systems",
     "web development",
     "low-level programming",
-    "Hardware ML"
+    "Hardware Machine Learning"
   ],
   currentFocus: "building projects and improving fundamentals",
   mindset: "learn → build → break → repeat",
