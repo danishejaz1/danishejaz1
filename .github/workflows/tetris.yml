@@ -1,4 +1,4 @@
-name: Generate SVG
+name: Generate Tetris Grid
 
 on:
   workflow_dispatch:
@@ -13,16 +13,40 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/tetris.svg
-            dist/tetris-dark.svg
+      - name: Generate SVG
+        run: |
+          cat << 'EOF' > tetris.svg
+          <svg width="800" height="300" xmlns="http://www.w3.org/2000/svg">
+            <rect width="100%" height="100%" fill="#000000"/>
 
-      - name: Deploy to output branch
+            <!-- Grid -->
+            <g>
+              <!-- Generate blocks -->
+              <!-- Blue blocks -->
+              <rect x="50" y="50" width="20" height="20" fill="#4DA6FF"/>
+              <rect x="70" y="50" width="20" height="20" fill="#4DA6FF"/>
+              <rect x="90" y="50" width="20" height="20" fill="#4DA6FF"/>
+
+              <!-- Red blocks -->
+              <rect x="150" y="70" width="20" height="20" fill="#FF3B3B"/>
+              <rect x="170" y="70" width="20" height="20" fill="#FF3B3B"/>
+              <rect x="190" y="70" width="20" height="20" fill="#FF3B3B"/>
+
+              <!-- More random blocks -->
+              <rect x="250" y="100" width="20" height="20" fill="#4DA6FF"/>
+              <rect x="270" y="120" width="20" height="20" fill="#FF3B3B"/>
+              <rect x="290" y="140" width="20" height="20" fill="#4DA6FF"/>
+
+              <rect x="350" y="80" width="20" height="20" fill="#FF3B3B"/>
+              <rect x="370" y="100" width="20" height="20" fill="#FF3B3B"/>
+              <rect x="390" y="120" width="20" height="20" fill="#4DA6FF"/>
+            </g>
+          </svg>
+          EOF
+
+      - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
+          publish_dir: .
           publish_branch: output
