@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/danishejaz1/danishejaz1/output/tetris.svg" />
+  <img src="https://raw.githubusercontent.com/danishejaz1/danishejaz1/output/tetris-dark.svg" />
 </p>
 
 ---
