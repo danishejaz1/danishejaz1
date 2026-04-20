@@ -1,9 +1,12 @@
-name: Generate Tetris SVG
+name: Generate SVG
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 */12 * * *"
-  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
