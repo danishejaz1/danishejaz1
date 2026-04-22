@@ -36,11 +36,16 @@
   <img src="https://img.shields.io/badge/Discord-FF3B3B?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
+<a href="https://github.com/danishejaz1/danishejaz1/blob/main/resume.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-FF3B3B?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</a>
+
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/danishejaz1/danishejaz1/output/tetris-dark.svg" />
 </p>
+
 
 ---
 
