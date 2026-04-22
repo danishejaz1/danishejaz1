@@ -12,8 +12,6 @@
   <span style="color:#ff7c72;">}</span>
 </h2>
 
-#### 🌐 connect
-
 <p align="center">
 
   <a href="https://www.linkedin.com/in/danishejaz1/" target="_blank">
