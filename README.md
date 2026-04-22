@@ -22,6 +22,10 @@
     <img src="https://img.shields.io/badge/Devpost-FF3B3B?style=for-the-badge&logo=devpost&logoColor=white"/>
   </a>
 
+  <a href="mailto:ddanish2506@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FF3B3B?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 <p align="center">
