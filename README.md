@@ -58,9 +58,9 @@
 const danishEjaz = {
   role: "computer engineering student",
   interests: [
-    "embedded systems",
-    "web development",
-    "low-level programming",
+    "Embedded Systems",
+    "Web Development",
+    "Low-level Programming",
     "Hardware Machine Learning"
   ],
   currentFocus: "building projects and improving fundamentals",
