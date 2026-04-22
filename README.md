@@ -26,6 +26,10 @@
   <img src="https://img.shields.io/badge/Email-FF3B3B?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://github.com/danishejaz1" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-FF3B3B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 <p align="center">
