@@ -30,6 +30,10 @@
   <img src="https://img.shields.io/badge/GitHub-FF3B3B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://discord.gg/ddanish25_" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-FF3B3B?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
 </p>
 
 <p align="center">
