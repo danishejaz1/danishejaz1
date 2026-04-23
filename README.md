@@ -145,20 +145,32 @@ export default danish;
 
 ---
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=79c0ff&width=700&lines=PROJECTS+%F0%9F%A7%A9;BUILT+%7C+BROKEN+%7C+IMPROVED" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=79c0ff&width=700&lines=PROJECTS+%F0%9F%A7%A9;BUILT+%7C+COLLABORATED+%7C+ENGINEERED" />
 </p>
 
-<p align="center">
-  Real-world systems I've built or am actively developing
-</p>
+---
 
-<p align="center">
+## 🕶️ VisionScout
+### AI-Powered Visual Intelligence System
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danishejaz1&repo=YOUR_REPO_1&theme=dark&title_color=FF3B3B" />
+- Built an end-to-end computer vision + AI system that converts visual input into structured insights  
+- My contribution: **backend integration, AI pipeline logic, and system-level design decisions**  
+- Works across object detection, scene understanding, and structured data generation  
+- Focus: **computer vision, full-stack AI systems, and real-time processing**
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danishejaz1&repo=YOUR_REPO_2&theme=dark&title_color=FF3B3B" />
+🔗 Repo: https://github.com/ClosetCoderSad/VisionScout
 
-</p>
+---
+
+## 🧠 HackSMU 2026 Project
+### AI/Software Engineering Hackathon System
+
+- Developed as part of a hackathon team under time constraints  
+- My contribution: **core feature development + system integration + debugging critical components**  
+- Focused on building a working MVP under production-like pressure  
+- Focus: **rapid prototyping, teamwork, and applied software engineering**
+
+🔗 Repo: https://github.com/toosh-legacy/HACKSMU_26
 
 ---
 
