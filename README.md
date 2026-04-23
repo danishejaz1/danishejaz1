@@ -162,7 +162,7 @@ export default danish;
 
 ---
 
-## 🧠 HackSMU 2026 Project
+## 🧠 Tribal
 ### AI/Software Engineering Hackathon System
 
 - Developed as part of a hackathon team under time constraints  
