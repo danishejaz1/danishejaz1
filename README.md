@@ -144,6 +144,23 @@ export default danish;
 </p>
 
 ---
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=79c0ff&width=700&lines=PROJECTS+%F0%9F%A7%A9;BUILT+%7C+BROKEN+%7C+IMPROVED" />
+</p>
+
+<p align="center">
+  Real-world systems I've built or am actively developing
+</p>
+
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danishejaz1&repo=YOUR_REPO_1&theme=dark&title_color=FF3B3B" />
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danishejaz1&repo=YOUR_REPO_2&theme=dark&title_color=FF3B3B" />
+
+</p>
+
+---
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=79c0ff&width=700&lines=STATS+%F0%9F%93%8A;MY+STATS" />
